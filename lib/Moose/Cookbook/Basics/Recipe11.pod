@@ -1,0 +1,9 @@
+package Moose::Cookbook::Basics::Recipe11;
+
+__END__
+
+=pod
+
+=head1 RENAMED TO L<Moose::Cookbook::Basics::DateTime_ExtendingNonMooseParent>
+
+=cut

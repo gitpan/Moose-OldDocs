@@ -1,0 +1,9 @@
+package Moose::Cookbook::Meta::Recipe1;
+
+__END__
+
+=pod
+
+=head1 RENAMED TO L<Moose::Cookbook::Meta::WhyMeta>
+
+=cut

@@ -1,0 +1,9 @@
+package Moose::Cookbook::Meta::Recipe4;
+
+__END__
+
+=pod
+
+=head1 RENAMED TO L<Moose::Cookbook::Legacy::Table_ClassMetaclass>
+
+=cut

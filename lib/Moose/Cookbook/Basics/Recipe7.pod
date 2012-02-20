@@ -1,0 +1,9 @@
+package Moose::Cookbook::Basics::Recipe7;
+
+__END__
+
+=pod
+
+=head1 RENAMED TO L<Moose::Cookbook::Basics::Immutable>
+
+=cut
