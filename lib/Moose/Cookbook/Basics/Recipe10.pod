@@ -12,7 +12,7 @@ Moose::Cookbook::Basics::Recipe10 - Renamed to Moose::Cookbook::Basics::Person_B
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 DESCRIPTION
 

@@ -12,7 +12,7 @@ Moose::Cookbook::Meta::Recipe3 - Renamed to Moose::Cookbook::Meta::Labeled_Attri
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 DESCRIPTION
 

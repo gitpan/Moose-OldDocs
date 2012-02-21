@@ -12,7 +12,7 @@ Moose::Cookbook::Meta::Recipe2 - Renamed to Moose::Cookbook::Legacy::Labeled_Att
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 DESCRIPTION
 

@@ -37,3 +37,4 @@ t/release-eol.t
 t/release-no-tabs.t
 t/release-pod-no404s.t
 t/release-pod-syntax.t
+t/whatever.t

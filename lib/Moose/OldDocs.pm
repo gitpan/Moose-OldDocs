@@ -1,6 +1,6 @@
 package Moose::OldDocs;
 {
-  $Moose::OldDocs::VERSION = '0.02'; # TRIAL
+  $Moose::OldDocs::VERSION = '0.03'; # TRIAL
 }
 
 # ABSTRACT: A distro that contains stubs for documentation which has moved.
@@ -15,7 +15,7 @@ Moose::OldDocs - A distro that contains stubs for documentation which has moved.
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 DESCRIPTION
 
