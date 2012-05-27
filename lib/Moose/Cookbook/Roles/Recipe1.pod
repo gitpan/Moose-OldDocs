@@ -12,7 +12,7 @@ Moose::Cookbook::Roles::Recipe1 - Renamed to Moose::Cookbook::Roles::Comparable_
 
 =head1 VERSION
 
-version 0.03
+version 0.04
 
 =head1 DESCRIPTION
 
